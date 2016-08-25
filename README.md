@@ -1,2 +1,2 @@
 # interview
-Google、Microsoft、Baidu、... interview questions
+This project contains some interview questions of Google,Microsoft and Baidu so on and their codes
